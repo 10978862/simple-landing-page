@@ -1,0 +1,13 @@
+
+body{
+    background-image: url("simon-lohmann-eFzaXveSTfc-unsplash.jpg");
+
+}
+.myself{
+    text-align: center;
+    height: 20rem;
+    padding-top: 18%;
+    font-size: 4rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
